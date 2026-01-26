@@ -8,14 +8,14 @@ const config = {
     "heroHeadline": "Win a <span class='highlight'>Dinner for Two</span> at Marquee Steakhouse + <span class='highlight'>Car Service Pickup</span> in Milton!",
     "heroSubheadline": "Enjoy a fine dining night out. Get picked up, dropped off, and dine in style. Total prize value $400. Entries close March 3, 2026.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/xshjq1x71xrmr0cvzd4vqfs1n4.jpg",
-    "promotionDates": "Enter Feb 2–Mar 3, 2026. Winner picked March 3, 2026.",
+    "promotionDates": "Enter Feb 2 - Mar 3, 2026. Winner picked March 3, 2026.",
     "endDate": "2026-03-04T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Name Now!",
     "name": "Milton Date Night Giveaway",
     "successModalHeaderText": "You're In the Running!",
     "successModalMainMessage": "Your entry for the <strong>Milton Date Night Giveaway</strong> is in. We will draw the winner on March 3, 2026 and email them. Good luck!",
-    "successModalEmailPrompt": "Watch your email on March 3—follow us on Instagram and Facebook for the winner post."
+    "successModalEmailPrompt": "Watch your email on March 3 - follow us on Instagram and Facebook for the winner post."
   },
   "settings": {
     "confettiColors": [
@@ -28,21 +28,16 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Milton Date Night Giveaway</strong> is in. We will draw the winner on March 3, 2026 and email them. Good luck!",
-    "socialPromptText": "Watch your inbox on March 3. Follow us on Instagram and Facebook for the winner post."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/g853yjrfj1rmt0cvzd5byjfarc.jpg",
+        "src": "https://i.ibb.co/Z6pkmt0b/Marquee-Steakhouse-in-Milton.jpg",
         "alt": "Couple enjoying dinner at Marquee Steakhouse in Milton"
       },
       {
@@ -132,8 +127,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Ontario residents 18+; one entry per person.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -165,6 +158,8 @@ const config = {
       "Follow @soldbyshaleni for updates and the winner post",
       "Share this with a friend who loves date nights"
     ],
+    "finePrintText": "Please read the fine print before entering. Ontario residents 18+; one entry per person.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random",
       "text": "We pick one entry at random. Every entry has the same chance."
@@ -180,12 +175,12 @@ const config = {
       "twitter": "https://twitter.com/intent/tweet?url=http%3A%2F%2FGiveaway-5.netlify.app&text=Win%20%24400%20Milton%20Date%20Night%3A%20Dinner%20%2B%20Car%20Service"
     },
     "subtitle": "Enter your details below for a chance to win this Milton Date Night!",
-    "entryCountText": "Entries are coming in fast—don’t miss out!",
+    "entryCountText": "Entries are coming in fast - don’t miss out!",
     "socialSharePrompt": "Love this prize? Share it with a Milton friend:"
   },
- "modalQuestions": [
+  "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
+      "id": "q_auto_1769454875220_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
+      "id": "q_auto_1769454875220_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
+      "id": "q_auto_1769454875220_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -251,15 +246,27 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "Almost there!",
+    "mainMessage": "Your information for the Milton Date Night Giveaway has been received. Complete your entry below to be eligible for the March 3 draw.\n\n",
+    "socialPromptText": "Follow me @soldbyshaleni on Instagram to complete your entry - only followers are eligible"
+  },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/SoldByShaleni",
+      "facebook": "",
       "instagram": "https://www.instagram.com/soldbyshaleni/"
     },
     "agentContact": {
       "name": "Shaleni Henriquez",
       "title": "REALTOR",
-      "phone": "9054629801",
+      "phone": "(905) 462-9801",
       "email": "shaleni@soldbyshaleni.com"
     },
     "footerDisclaimer": "This giveaway is sponsored by Shaleni Henriquez at Real Broker Ontario Ltd Brokerage and is not affiliated with Marquee Steakhouse, Castle Black, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close March 3, 2026 at 11:59 PM ET. Winner selected at random on March 3, 2026. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
@@ -270,7 +277,7 @@ const config = {
     "brokerageName": "Real Broker Ontario Ltd Brokerage",
     "address": "70 Jutland",
     "email": "shaleni@soldbyshaleni.com",
-    "phone": "9054629801",
+    "phone": "(905) 462-9801",
     "copyrightOwner": "Shaleni Henriquez"
   },
   "deploymentInfo": {
