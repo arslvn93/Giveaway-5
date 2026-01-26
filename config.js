@@ -37,7 +37,7 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://i.ibb.co/Z6pkmt0b/Marquee-Steakhouse-in-Milton.jpg",
+        "src": "https://i.ibb.co/dwTthXzY/Marque-steakhouse.png",
         "alt": "Couple enjoying dinner at Marquee Steakhouse in Milton"
       },
       {
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1769455077164_0",
+      "id": "q_auto_1769455710713_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769455077165_1",
+      "id": "q_auto_1769455710713_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769455077165_2",
+      "id": "q_auto_1769455710713_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
