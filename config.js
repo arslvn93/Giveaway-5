@@ -1,21 +1,21 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win $400 Milton Date Night: Dinner + Car Service",
+    "navBrandLogoText": "Shaleni Henriquez",
+    "privacyPolicyLink": "https://soldbyshaleni.com/site/privacy-terms"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2026-12-31T23:59:00.000Z",
+    "heroHeadline": "Win a <span class='highlight'>Dinner for Two</span> at Marquee Steakhouse + <span class='highlight'>Car Service Pickup</span> in Milton!",
+    "heroSubheadline": "Enjoy a fine dining night out. Get picked up, dropped off, and dine in style. Total prize value $400. Entries close March 3, 2026.",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/xshjq1x71xrmr0cvzd4vqfs1n4.jpg",
+    "promotionDates": "Enter Feb 2–Mar 3, 2026. Winner picked March 3, 2026.",
+    "endDate": "2026-03-04T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
-    "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "entryFormCtaText": "Enter My Name Now!",
+    "name": "Milton Date Night Giveaway",
+    "successModalHeaderText": "You're In the Running!",
+    "successModalMainMessage": "Your entry for the <strong>Milton Date Night Giveaway</strong> is in. We will draw the winner on March 3, 2026 and email them. Good luck!",
+    "successModalEmailPrompt": "Watch your email on March 3—follow us on Instagram and Facebook for the winner post."
   },
   "settings": {
     "confettiColors": [
@@ -25,149 +25,167 @@ const config = {
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
-    "secondaryColorOverride": "#FFEE58",
+    "primaryColorOverride": "",
+    "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": "",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
-    "turnstileSiteKey": "0x4AAAAAAB5SpbWeBo7JnEIs",
-    "turnstileReplitSiteId": "0c27b526-888c-489b-8f11-66d1fcba1bfa"
+    "followUpBossEmail": ""
+  },
+  "thankYouPage": {
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the <strong>Milton Date Night Giveaway</strong> is in. We will draw the winner on March 3, 2026 and email them. Good luck!",
+    "socialPromptText": "Watch your inbox on March 3. Follow us on Instagram and Facebook for the winner post."
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/g853yjrfj1rmt0cvzd5byjfarc.jpg",
+        "alt": "Couple enjoying dinner at Marquee Steakhouse in Milton"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/s22t7fkgknrmt0cvzd5ax2tjq4.jpg",
+        "alt": "Black car service picking up a couple in Milton"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/5b6wnzpqv9rmr0cvzd59r5069w.jpg",
+        "alt": "Fine dining steak and sides at a Milton restaurant"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hk6bxm2a99rmr0cvzd5rs772yg.jpg",
+        "alt": "Happy couple on a date night in Milton"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-utensils",
+        "text": "$250 dinner credit for two at Marquee Steakhouse (Milton)"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-car",
+        "text": "$150 car service (Castle Black) for pickup and drop-off"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-map-marker-alt",
+        "text": "Car service within Milton only"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-calendar-check",
+        "text": "Restaurant reservation required in advance"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-info-circle",
+        "text": "Any amount over the credits is not covered"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
+    "name": "Milton Date Night Experience",
     "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "description": "Picture this: a black car arrives at your door. You and your date relax on the ride. You step into Marquee Steakhouse in Milton. Warm service. Amazing food. No stress about parking or driving. After dinner, your ride takes you home. Simple. Special. Local.",
+    "limitedTimeOfferText": "Milton-only giveaway. Ends soon!",
+    "ctaButtonText": "I Want This Date Night!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
         "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "description": "Add your name and email. It takes 30 seconds."
       },
       {
-        "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "icon": "fas fa-check-circle",
+        "title": "Answer Quick Questions",
+        "description": "Tell us a bit about your home needs."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "You're Entered",
+        "description": "We draw on March 3, 2026 and email the winner."
       }
     ],
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
+        "text": "Fast 30-second entry"
       },
       {
         "icon": "fas fa-gift",
-        "text": "No purchase needed"
+        "text": "Free to enter"
       },
       {
-        "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
+        "icon": "fas fa-map-pin",
+        "text": "Local Milton prize"
       },
       {
-        "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
+        "icon": "fas fa-shield-alt",
+        "text": "Secure and private"
+      },
+      {
+        "icon": "fas fa-random",
+        "text": "Fair random draw"
+      },
+      {
+        "icon": "fas fa-bell",
+        "text": "Winner emailed Mar 3"
       }
     ]
   },
   "rules": {
+    "finePrintText": "Please read the fine print before entering. Ontario residents 18+; one entry per person.",
+    "showTipsSection": true,
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "Ontario residents who are 18 or older."
       },
       {
-        "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "q": "When does it end?",
+        "a": "Entries close March 3, 2026 at 11:59 PM ET."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "How do I know if I win?",
+        "a": "We email the winner on March 3, 2026. Check your inbox and spam."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "What is covered?",
+        "a": "$150 car service within Milton + $250 dinner credit. Costs over those amounts are not covered."
+      },
+      {
+        "q": "Do I need a reservation?",
+        "a": "Yes. Please book Marquee Steakhouse in advance. Date is subject to availability."
+      },
+      {
+        "q": "Can I enter more than once?",
+        "a": "One entry per person to keep it fair."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Use a valid email so we can contact you if you win",
+      "Follow @soldbyshaleni for updates and the winner post",
+      "Share this with a friend who loves date nights"
     ],
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Random",
+      "text": "We pick one entry at random. Every entry has the same chance."
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Know Before You Go",
+      "text": "Car service covers Milton only and up to $150. Dinner covers up to $250 at Marquee Steakhouse. A reservation is required. Any extra cost is not covered."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2FGiveaway-5.netlify.app",
+      "twitter": "https://twitter.com/intent/tweet?url=http%3A%2F%2FGiveaway-5.netlify.app&text=Win%20%24400%20Milton%20Date%20Night%3A%20Dinner%20%2B%20Car%20Service"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don't miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!",
-    "consentLabel": ""
+    "subtitle": "Enter your details below for a chance to win this Milton Date Night!",
+    "entryCountText": "Entries are coming in fast—don’t miss out!",
+    "socialSharePrompt": "Love this prize? Share it with a Milton friend:"
   },
-  "modalQuestions": [
+ "modalQuestions": [
     {
-      "id": "q_auto_1760120269880_0",
+      "id": "q_auto_1757969005264_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -189,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760120269880_1",
+      "id": "q_auto_1757969005264_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -197,8 +215,8 @@ const config = {
           "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
           "value": "Not at the moment",
@@ -211,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760120269880_2",
+      "id": "q_auto_1757969005264_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -233,45 +251,33 @@ const config = {
       ]
     }
   ],
-  "thankYouPage": {
-    "socialLinks": {
-      "facebook": "",
-      "instagram": "",
-      "twitter": "",
-      "tiktok": ""
-    },
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
-  },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/SoldByShaleni",
+      "instagram": "https://www.instagram.com/soldbyshaleni/"
     },
     "agentContact": {
-      "name": "Julian Kashani",
-      "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "name": "Shaleni Henriquez",
+      "title": "REALTOR",
+      "phone": "9054629801",
+      "email": "shaleni@soldbyshaleni.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "footerDisclaimer": "This giveaway is sponsored by Shaleni Henriquez at Real Broker Ontario Ltd Brokerage and is not affiliated with Marquee Steakhouse, Castle Black, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close March 3, 2026 at 11:59 PM ET. Winner selected at random on March 3, 2026. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/headshots/1761593105012-shaleni headshot.png",
+    "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1761593023693-ShaleniHenriquezPartner_HORIZONTAL_Green.png",
+    "secondaryLogoAlt": "Shaleni Henriquez",
+    "organizerName": "Shaleni Henriquez",
+    "brokerageName": "Real Broker Ontario Ltd Brokerage",
+    "address": "70 Jutland",
+    "email": "shaleni@soldbyshaleni.com",
+    "phone": "9054629801",
+    "copyrightOwner": "Shaleni Henriquez"
   },
   "deploymentInfo": {
-    "repoName": "giveaway",
-    "repoUrl": "https://github.com/arslvn93/giveaway",
-    "netlifyUrl": "http://giveawaymain.netlify.app",
+    "repoName": "Giveaway-5",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-5",
+    "netlifyUrl": "http://Giveaway-5.netlify.app",
     "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "tag": "Milton Date Night Giveaway"
   }
 };
