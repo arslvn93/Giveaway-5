@@ -41,15 +41,15 @@ const config = {
         "alt": "Couple enjoying dinner at Marquee Steakhouse in Milton"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/s22t7fkgknrmt0cvzd5ax2tjq4.jpg",
+        "src": "https://i.ibb.co/993r4xw8/marquee-stakehouse.jpg",
         "alt": "Black car service picking up a couple in Milton"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/5b6wnzpqv9rmr0cvzd59r5069w.jpg",
+        "src": "https://i.ibb.co/gLXY6KsQ/marquee-stakehouse.webp",
         "alt": "Fine dining steak and sides at a Milton restaurant"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hk6bxm2a99rmr0cvzd5rs772yg.jpg",
+        "src": "https://i.ibb.co/BHQpmzTX/marquee-stakehouse-4.jpg",
         "alt": "Happy couple on a date night in Milton"
       }
     ],
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1769455710713_0",
+      "id": "q_auto_1770242722592_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769455710713_1",
+      "id": "q_auto_1770242722592_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769455710713_2",
+      "id": "q_auto_1770242722592_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
