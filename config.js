@@ -6,16 +6,16 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>Dinner for Two</span> at Marquee Steakhouse + <span class='highlight'>Car Service Pickup</span> in Milton!",
-    "heroSubheadline": "Enjoy a fine dining night out. Get picked up, dropped off, and dine in style. Total prize value $400. Entries close March 3, 2026.",
+    "heroSubheadline": "Enjoy a fine dining night out. Get picked up, dropped off, and dine in style. Total prize value $400. Entries close March 17, 2026.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/xshjq1x71xrmr0cvzd4vqfs1n4.jpg",
-    "promotionDates": "Enter Feb 2 - Mar 3, 2026. Winner picked March 3, 2026.",
-    "endDate": "2026-03-04T04:59:00.000Z",
+    "promotionDates": "Enter Feb 20 - Mar 17, 2026. Winner picked March 18, 2026.",
+    "endDate": "2026-03-18T00:00:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Name Now!",
     "name": "Milton Date Night Giveaway",
     "successModalHeaderText": "You're In the Running!",
-    "successModalMainMessage": "Your entry for the <strong>Milton Date Night Giveaway</strong> is in. We will draw the winner on March 3, 2026 and email them. Good luck!",
-    "successModalEmailPrompt": "Watch your email on March 3 - follow us on Instagram and Facebook for the winner post."
+    "successModalMainMessage": "Your entry for the <strong>Milton Date Night Giveaway</strong> is in. We will draw the winner on March 18, 2026 and email them. Good luck!",
+    "successModalEmailPrompt": "Watch your email on March 18 - follow us on Instagram and Facebook for the winner post."
   },
   "settings": {
     "confettiColors": [
@@ -96,7 +96,7 @@ const config = {
       {
         "icon": "fas fa-trophy",
         "title": "You're Entered",
-        "description": "We draw on March 3, 2026 and email the winner."
+        "description": "We draw on March 18, 2026 and email the winner."
       }
     ],
     "highlights": [
@@ -122,7 +122,7 @@ const config = {
       },
       {
         "icon": "fas fa-bell",
-        "text": "Winner emailed Mar 3"
+        "text": "Winner emailed Mar 18"
       }
     ]
   },
@@ -134,11 +134,11 @@ const config = {
       },
       {
         "q": "When does it end?",
-        "a": "Entries close March 3, 2026 at 11:59 PM ET."
+        "a": "Entries close March 17, 2026 at 11:59 PM ET."
       },
       {
         "q": "How do I know if I win?",
-        "a": "We email the winner on March 3, 2026. Check your inbox and spam."
+        "a": "We email the winner on March 18, 2026. Check your inbox and spam."
       },
       {
         "q": "What is covered?",
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771448608957_0",
+      "id": "q_auto_1771525428031_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771448608957_1",
+      "id": "q_auto_1771525428031_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771448608957_2",
+      "id": "q_auto_1771525428031_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -263,7 +263,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "Almost there!",
-    "mainMessage": "Your information for the Milton Date Night Giveaway has been received. Complete your entry below to be eligible for the March 3 draw.\n\n",
+    "mainMessage": "Your information for the Milton Date Night Giveaway has been received. Complete your entry below to be eligible for the March 18 draw.\n\n",
     "socialPromptText": "Follow me @soldbyshaleni on Instagram to complete your entry - only followers are eligible"
   },
   "footerContact": {
@@ -277,7 +277,7 @@ const config = {
       "phone": "(905) 462-9801",
       "email": "shaleni@soldbyshaleni.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Shaleni Henriquez at Real Broker Ontario Ltd Brokerage and is not affiliated with Marquee Steakhouse, Castle Black, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close March 3, 2026 at 11:59 PM ET. Winner selected at random on March 3, 2026. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "footerDisclaimer": "This giveaway is sponsored by Shaleni Henriquez at Real Broker Ontario Ltd Brokerage and is not affiliated with Marquee Steakhouse, Castle Black, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close March 17, 2026 at 11:59 PM ET. Winner selected at random on March 18, 2026. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/headshots/1761593105012-shaleni headshot.png",
     "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1761593023693-ShaleniHenriquezPartner_HORIZONTAL_Green.png",
     "secondaryLogoAlt": "Shaleni Henriquez",
